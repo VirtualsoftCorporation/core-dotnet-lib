@@ -6,6 +6,8 @@ namespace Virtualsoft.Core.Patterns.Factory
 {
     public interface IMultipleFactory : IFactory
     {
-        ICollection<IProduct> CreateProducts();
+        public bool IsProducer(IEnumerable<Guid> ids);
+
+        public IEnumerable<IProduct> CreateProducts();
     }
 }

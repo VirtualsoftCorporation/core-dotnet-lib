@@ -1,7 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
+    <Company>Virtualsoft</Company>
+    <Authors>Virtualsoft</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/VirtualsoftCorporation/core-dotnet-lib</RepositoryUrl>
+    <Version>1.0.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>

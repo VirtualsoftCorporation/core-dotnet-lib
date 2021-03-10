@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Virtualsoft.Core</id>
+    <version>1.0.0</version>
+    <authors>Virtualsoft</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <repository url="https://github.com/VirtualsoftCorporation/core-dotnet-lib" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\bin\Release\net5.0\Virtualsoft.Core.dll" target="lib\net5.0\Virtualsoft.Core.dll" />
+  </files>
+</package>

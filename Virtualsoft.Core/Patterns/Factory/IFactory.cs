@@ -6,8 +6,8 @@ namespace Virtualsoft.Core.Patterns.Factory
 {
     public interface IFactory
     {
-        bool isProducer(IProductId id);
+        public bool isProducer(Guid id);
         
-        IProduct CreateProduct();
+        public IProduct CreateProduct();
     }
 }

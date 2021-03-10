@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pQXD8xyXrXQPR0pQpme3TErI3zMjJSqo8sH4GKdZ3kpBgTZYwcntSnyH4eGgKnRrEKJfXka/Yv8Jt9jDjYBaSg==",
+  "dgSpecHash": "GGWJwLhoNYXij+kS/AjnasAyACy7HupvYoadaGI9L/z2bPcKpPPHgfdCXD78JQcEoLEHAJmHVe3ATULzMUaoCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\abner\\Documents\\Repositorios\\virtualsoft\\virtualsoft-libs\\core-dotnet-lib\\Virtualsoft.Core\\Virtualsoft.Core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\abner\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\abner\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -6,8 +6,8 @@ namespace Virtualsoft.Core.Patterns.Composite
 {
     public interface IComposite : IComponent
     {
-        void Add(IComponent component);
+        public void Add(IComponent component);
 
-        void Remove(IComponent component);
+        public void Remove(IComponent component);
     }
 }

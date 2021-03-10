@@ -6,6 +6,6 @@ namespace Virtualsoft.Core.Patterns.Factory
 {
     public interface IProduct
     {
-        IProductId ProductId { get; }
+        public Guid ProductId { get; }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\obj\Release\net5.0\Virtualsoft.Core.csprojAssemblyReference.cache
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\obj\Release\net5.0\Virtualsoft.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\obj\Release\net5.0\Virtualsoft.Core.AssemblyInfoInputs.cache
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\obj\Release\net5.0\Virtualsoft.Core.AssemblyInfo.cs
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\obj\Release\net5.0\Virtualsoft.Core.csproj.CoreCompileInputs.cache
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\bin\Release\net5.0\Virtualsoft.Core.deps.json
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\bin\Release\net5.0\Virtualsoft.Core.dll
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\bin\Release\net5.0\ref\Virtualsoft.Core.dll
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\bin\Release\net5.0\Virtualsoft.Core.pdb
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\obj\Release\net5.0\Virtualsoft.Core.dll
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\obj\Release\net5.0\ref\Virtualsoft.Core.dll
+C:\Users\abner\Documents\Repositorios\virtualsoft\virtualsoft-libs\core-dotnet-lib\Virtualsoft.Core\obj\Release\net5.0\Virtualsoft.Core.pdb

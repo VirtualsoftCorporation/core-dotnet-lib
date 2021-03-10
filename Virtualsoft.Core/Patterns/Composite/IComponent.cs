@@ -6,6 +6,6 @@ namespace Virtualsoft.Core.Patterns.Composite
 {
     public interface IComponent
     {
-        IOperationResponse Operation(params IOperationArgument[] args);
+        public IOperationResponse Operation(params IOperationArgument[] args);
     }
 }
